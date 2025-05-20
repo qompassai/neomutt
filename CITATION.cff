@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Qompass AI on Neomutt"
+title: "neomutt"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -15,7 +15,7 @@ keywords:
   - Education
   - Healthcare
   - Post-Quantum Cryptography
-  - terminal
-  - neovim
-  - neomutt
-abstract: "Neomutt: Because neovim can be used for email"
+  - Quantum
+  - opensource
+  - software
+abstract: "Neomutt: Because self-hosted email in neovim is dope"
